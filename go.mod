@@ -1,6 +1,6 @@
 module iforward
 
-go 1.21.4
+go 1.21
 
 require github.com/idoubi/goz v1.4.5
 
@@ -13,6 +13,6 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/yoda-of-soda/map2xml v1.0.2 // indirect
-	golang.org/x/net v0.0.0-20221004154528-8021a29435af // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
 )
