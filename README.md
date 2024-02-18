@@ -1,4 +1,4 @@
 iForward
 ========
 
- [中文](README.zh-CN.MD)
+ [中文](README.zh-CN.md)
